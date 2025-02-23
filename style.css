@@ -184,7 +184,7 @@ nav {
     width: 100%;
 
     /*improving my picture*/
-    transform: scale(1.5);
+    transform: translateY(-45px) scale(1.5);
     padding-top: 8px;
 }
 
